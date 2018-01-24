@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ldclient-node": "^3.3.0"
+    "ldclient-node": "^3.3.1"
   }
 }
